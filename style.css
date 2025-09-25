@@ -60,7 +60,7 @@ body {
 /* ===== HERO ===== */
 .hero {
   padding: 60px 20px;
-  background: url('https://i.ibb.co/xD0RtpY/minecraft-bg.jpg') center/cover no-repeat;
+  background: #133d13; /* warna hijau gelap polos */
   text-align: center;
 }
 .hero h2 {
